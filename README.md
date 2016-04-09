@@ -1,2 +1,2 @@
-# InnovectoButton
+# Innovecto
 Custom UIButton For Swift
